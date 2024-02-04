@@ -1,0 +1,8 @@
+- ChargedJumping
+- CursorUpdate
+- Running
+- Scratch/Interact
+- InstinctVision
+- Doors/Openable
+- Pickable Knife
+- Boxes
