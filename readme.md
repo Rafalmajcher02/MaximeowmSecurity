@@ -46,3 +46,27 @@
 
 ## Easter Eggs
 - Get a feesh from the aquarium hehe
+
+## Elevator Pitch
+- A room escape style game focussing on interaction with the environment and cat behaviours and themes.
+
+## Game Descripion
+- The game focusses on Max the cat, who has concluded their own isn't very good at hunting, and wants to help! But to go hunting himself, he first needs to escape the house, and that's where you come in. By moving things and using various items, get yourself out of the house in as many ways as possible, whilst avoiding being caught in the act by your human!
+
+## Controls
+- WASD Keys to move.
+- Hold the Spacebar to charge a jump, and release to jump.
+- Use the Left-Mouse-Button to scratch with your claws.
+- Hold the middle mouse button to view items you can interact with.
+- Hit F1 to access the debug menu.
+
+## Game Mechanics
+- The game primaily features the cat's attempts to escape the house, by moving boxes to assist in jumping to higher platforms and finding tools or paths out of the house.
+
+## Credits
+- Husky - Programming
+- Ossie - Art Leader
+- Katie - Artist
+- Marco - Artist
+- Tom - Artist
+- Dan - Writer
