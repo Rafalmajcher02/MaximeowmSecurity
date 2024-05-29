@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/Audio/TriggerBox_Blueprint.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SB/OP45O689XX9H7YQ8CRXN0W.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/Audio/SFX_BoxShifting_Loopable.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/Audio/TestNoise.uasset",
+				"D:/Team302-DysFUNctional_Gamers/AudioTest/AudioTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+			]
+		}
+	]
+}
